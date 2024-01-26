@@ -2,11 +2,11 @@
 
 <img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjBrdzhrZ3FkZGpuNHp4eGJrcHcwcTh5N3ZtODFyNTd5dHA3NDRjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<h4 align="left">  About me:</h4>
+<h3 align="left">  About me:</h3>
 <p align="left">
 </p>
 
-<h2 align="center">A hard-working and passionate student seeking a challenging and dynamic environment to contribute expertise, foster innovation and collaborate effectively towards shared objectives.</h2>
+<h3 align="center">A hard-working and passionate student seeking a challenging and dynamic environment to contribute expertise, foster innovation and collaborate effectively towards shared objectives.</h2>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,4 +26,4 @@
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="35" height="35"/> </a> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="35" height="35"/> </a> </p>
 
-- 🎯 I'm currently working on my private game.
+<h3 align="center">🎯 I'm currently working on my private game.</h2>
