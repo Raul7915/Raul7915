@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjBrdzhrZ3FkZGpuNHp4eGJrcHcwcTh5N3ZtODFyNTd5dHA3NDRjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<h3 align="left">  About me:</h3>
+<h4 align="left">  About me:</h4>
 <p align="left">
 </p>
 
